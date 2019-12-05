@@ -1,0 +1,18 @@
+<middleware>
+  <middleware>
+    <name>ezcolor</name>
+    <id>ezcolor</id>
+    <uri>https://github.com/markgsaunders/ezcolor</uri>
+    <desc>EZCOLOR library</desc>
+    <category>test</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version>
+        <num>v1</num>
+        <commit>master</commit>
+        <desc>v1 release</desc>
+      </version>
+    </versions>
+  </middleware>
+</middleware>
+

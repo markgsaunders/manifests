@@ -1,0 +1,7 @@
+<super-manifest>
+  <middleware-manifest-list>
+    <middleware-manifest>
+      <uri>https://github.com/markgsaunders/manifests/raw/master/ezcolor-manifest.xml</uri>
+    </middleware-manifest>
+  </middleware-manifest-list>
+</super-manifest>
